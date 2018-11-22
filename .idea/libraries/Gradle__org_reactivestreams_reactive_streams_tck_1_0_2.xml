@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.reactivestreams:reactive-streams-tck:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams-tck/1.0.2/2746d2a19b32bfa9c2cdab53a78dc5bc1293eee3/reactive-streams-tck-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams-tck/1.0.2/9cb5366da0be84338902b9fdd7fa34de1ca5918e/reactive-streams-tck-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
